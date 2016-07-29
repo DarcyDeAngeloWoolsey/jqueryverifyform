@@ -7,6 +7,11 @@ p {
 	font-size: 24px;
 }
 
+p.notice {
+	font-size: 12px;
+	padding-left: 0px;
+}
+
 #rgt_c {
 	height: 100vh;
 	background-color: #dddddd;
@@ -77,7 +82,7 @@ p.tag {
 }
 
 .modal-body {
-	width: 40%;
+	width: 80%;
 	margin: auto;
 }
 
